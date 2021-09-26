@@ -38,7 +38,7 @@ I was able to consolidate my learnings on the Front-end basis (HTML, CSS and Boo
 
 ## Author
 
-- Website - [Gerson Rocha](https://www.linkedin.com/in/gersonrocha)
+- LinkedIn - [Gerson Rocha](https://www.linkedin.com/in/gersonrocha)
 - Frontend Mentor - [@GersonRocha9](https://www.frontendmentor.io/profile/GersonRocha9)
 - GitHub - [@GersonRocha9](https://github.com/GersonRocha9)
 
